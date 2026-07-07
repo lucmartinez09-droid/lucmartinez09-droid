@@ -21,19 +21,6 @@ Banco & API: DBeaver | Postman
 Além da técnica, trago a visão do "cliente final" e do "gestor". Minha Pós-Graduação em Comercial e Vendas e minha experiência prática me permitem entender as regras de negócio, facilitando a comunicação entre as áreas técnicas e de negócios, e garantindo que as soluções desenvolvidas tenham foco em resultados.
 
 <p align="left">
-    <a href="https://www.youtube.com/@lucmartinez09?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal de gameplay" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-UCVh87LFQMHtihByBtQRk8ww?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@lucmartinez09">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-UCVh87LFQMHtihByBtQRk8ww?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
     </a> 
     <a href="https://github.com/lucmartinez09-droid?tab=repositories&sort=stargazers">
         <img 
